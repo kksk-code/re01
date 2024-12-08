@@ -1,0 +1,510 @@
+{
+    "20241201-io茶话会-兹兹-如何一个月速通吉他": [],
+    "20241201-io茶话会-heky-从go入手编写属于自己的机器人后端（二）": [
+        {
+            "rpid": 248626537632,
+            "oid": 113581467179330,
+            "type": 1,
+            "mid": 81061120,
+            "root": 0,
+            "parent": 0,
+            "dialog": 0,
+            "count": 0,
+            "rcount": 0,
+            "state": 0,
+            "fansgrade": 0,
+            "attr": 256,
+            "ctime": 1733122742,
+            "mid_str": "81061120",
+            "oid_str": "113581467179330",
+            "rpid_str": "248626537632",
+            "root_str": "0",
+            "parent_str": "0",
+            "dialog_str": "0",
+            "like": 1,
+            "action": 0,
+            "member": {
+                "mid": "81061120",
+                "uname": "heky12356",
+                "sex": "男",
+                "sign": "。",
+                "avatar": "https://i1.hdslb.com/bfs/face/ae19cc1f0855ff69bf1a8ed09fe0bb8dc3dfcdf9.jpg",
+                "rank": "10000",
+                "face_nft_new": 0,
+                "is_senior_member": 0,
+                "senior": {},
+                "level_info": {
+                    "current_level": 6,
+                    "current_min": 0,
+                    "current_exp": 0,
+                    "next_exp": 0
+                },
+                "pendant": {
+                    "pid": 0,
+                    "name": "",
+                    "image": "",
+                    "expire": 0,
+                    "image_enhance": "",
+                    "image_enhance_frame": "",
+                    "n_pid": 0
+                },
+                "nameplate": {
+                    "nid": 0,
+                    "name": "",
+                    "image": "",
+                    "image_small": "",
+                    "level": "",
+                    "condition": ""
+                },
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1628524800000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0,
+                    "label": {
+                        "path": "",
+                        "text": "",
+                        "label_theme": "",
+                        "text_color": "",
+                        "bg_style": 0,
+                        "bg_color": "",
+                        "border_color": "",
+                        "use_img_label": true,
+                        "img_label_uri_hans": "",
+                        "img_label_uri_hant": "",
+                        "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                        "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                    },
+                    "avatar_subscript": 0,
+                    "nickname_color": ""
+                },
+                "fans_detail": null,
+                "user_sailing": null,
+                "is_contractor": false,
+                "contract_desc": "",
+                "nft_interaction": null,
+                "avatar_item": {
+                    "container_size": {
+                        "width": 1.8,
+                        "height": 1.8
+                    },
+                    "fallback_layers": {
+                        "layers": [
+                            {
+                                "visible": true,
+                                "general_spec": {
+                                    "pos_spec": {
+                                        "coordinate_pos": 2,
+                                        "axis_x": 0.9,
+                                        "axis_y": 0.9
+                                    },
+                                    "size_spec": {
+                                        "width": 1,
+                                        "height": 1
+                                    },
+                                    "render_spec": {
+                                        "opacity": 1
+                                    }
+                                },
+                                "layer_config": {
+                                    "tags": {
+                                        "AVATAR_LAYER": {}
+                                    },
+                                    "is_critical": true,
+                                    "layer_mask": {
+                                        "general_spec": {
+                                            "pos_spec": {
+                                                "coordinate_pos": 2,
+                                                "axis_x": 0.9,
+                                                "axis_y": 0.9
+                                            },
+                                            "size_spec": {
+                                                "width": 1,
+                                                "height": 1
+                                            },
+                                            "render_spec": {
+                                                "opacity": 1
+                                            }
+                                        },
+                                        "mask_src": {
+                                            "src_type": 3,
+                                            "draw": {
+                                                "draw_type": 1,
+                                                "fill_mode": 1,
+                                                "color_config": {
+                                                    "day": {
+                                                        "argb": "#FF000000"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "resource": {
+                                    "res_type": 3,
+                                    "res_image": {
+                                        "image_src": {
+                                            "src_type": 1,
+                                            "placeholder": 6,
+                                            "remote": {
+                                                "url": "https://i1.hdslb.com/bfs/face/ae19cc1f0855ff69bf1a8ed09fe0bb8dc3dfcdf9.jpg",
+                                                "bfs_style": "widget-layer-avatar"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "is_critical_group": true
+                    },
+                    "mid": "81061120"
+                }
+            },
+            "content": {
+                "message": "支持一下up[给心心]",
+                "members": [],
+                "emote": {
+                    "[给心心]": {
+                        "id": 3302,
+                        "package_id": 1,
+                        "state": 0,
+                        "type": 1,
+                        "attr": 0,
+                        "text": "[给心心]",
+                        "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                        "meta": {
+                            "size": 1,
+                            "suggest": [
+                                ""
+                            ]
+                        },
+                        "mtime": 1668688325,
+                        "jump_title": "给心心"
+                    }
+                },
+                "jump_url": {},
+                "max_line": 6
+            },
+            "replies": [],
+            "assist": 0,
+            "up_action": {
+                "like": true,
+                "reply": false
+            },
+            "invisible": false,
+            "card_label": [
+                {
+                    "rpid": 248626537632,
+                    "text_content": "UP主觉得很赞",
+                    "text_color_day": "#757575",
+                    "text_color_night": "#939393",
+                    "label_color_day": "#F4F4F4",
+                    "label_color_night": "#1E1E1E",
+                    "image": "",
+                    "type": 0,
+                    "background": "",
+                    "background_width": 0,
+                    "background_height": 0,
+                    "jump_url": "",
+                    "effect": 0,
+                    "effect_start_time": 0
+                }
+            ],
+            "reply_control": {
+                "up_like": true,
+                "max_line": 6,
+                "time_desc": "2天前发布"
+            },
+            "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+            },
+            "dynamic_id_str": "0",
+            "note_cvid_str": "0",
+            "track_info": ""
+        }
+    ],
+    "20241124-io茶话会-HBill-怎么构建一个排名系统": [
+        {
+            "rpid": 248023026944,
+            "oid": 113539138591946,
+            "type": 1,
+            "mid": 81061120,
+            "root": 0,
+            "parent": 0,
+            "dialog": 0,
+            "count": 0,
+            "rcount": 0,
+            "state": 0,
+            "fansgrade": 0,
+            "attr": 256,
+            "ctime": 1732510960,
+            "mid_str": "81061120",
+            "oid_str": "113539138591946",
+            "rpid_str": "248023026944",
+            "root_str": "0",
+            "parent_str": "0",
+            "dialog_str": "0",
+            "like": 2,
+            "action": 0,
+            "member": {
+                "mid": "81061120",
+                "uname": "heky12356",
+                "sex": "男",
+                "sign": "。",
+                "avatar": "https://i1.hdslb.com/bfs/face/ae19cc1f0855ff69bf1a8ed09fe0bb8dc3dfcdf9.jpg",
+                "rank": "10000",
+                "face_nft_new": 0,
+                "is_senior_member": 0,
+                "senior": {},
+                "level_info": {
+                    "current_level": 6,
+                    "current_min": 0,
+                    "current_exp": 0,
+                    "next_exp": 0
+                },
+                "pendant": {
+                    "pid": 0,
+                    "name": "",
+                    "image": "",
+                    "expire": 0,
+                    "image_enhance": "",
+                    "image_enhance_frame": "",
+                    "n_pid": 0
+                },
+                "nameplate": {
+                    "nid": 0,
+                    "name": "",
+                    "image": "",
+                    "image_small": "",
+                    "level": "",
+                    "condition": ""
+                },
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1628524800000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0,
+                    "label": {
+                        "path": "",
+                        "text": "",
+                        "label_theme": "",
+                        "text_color": "",
+                        "bg_style": 0,
+                        "bg_color": "",
+                        "border_color": "",
+                        "use_img_label": true,
+                        "img_label_uri_hans": "",
+                        "img_label_uri_hant": "",
+                        "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                        "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                    },
+                    "avatar_subscript": 0,
+                    "nickname_color": ""
+                },
+                "fans_detail": null,
+                "user_sailing": null,
+                "is_contractor": false,
+                "contract_desc": "",
+                "nft_interaction": null,
+                "avatar_item": {
+                    "container_size": {
+                        "width": 1.8,
+                        "height": 1.8
+                    },
+                    "fallback_layers": {
+                        "layers": [
+                            {
+                                "visible": true,
+                                "general_spec": {
+                                    "pos_spec": {
+                                        "coordinate_pos": 2,
+                                        "axis_x": 0.9,
+                                        "axis_y": 0.9
+                                    },
+                                    "size_spec": {
+                                        "width": 1,
+                                        "height": 1
+                                    },
+                                    "render_spec": {
+                                        "opacity": 1
+                                    }
+                                },
+                                "layer_config": {
+                                    "tags": {
+                                        "AVATAR_LAYER": {}
+                                    },
+                                    "is_critical": true,
+                                    "layer_mask": {
+                                        "general_spec": {
+                                            "pos_spec": {
+                                                "coordinate_pos": 2,
+                                                "axis_x": 0.9,
+                                                "axis_y": 0.9
+                                            },
+                                            "size_spec": {
+                                                "width": 1,
+                                                "height": 1
+                                            },
+                                            "render_spec": {
+                                                "opacity": 1
+                                            }
+                                        },
+                                        "mask_src": {
+                                            "src_type": 3,
+                                            "draw": {
+                                                "draw_type": 1,
+                                                "fill_mode": 1,
+                                                "color_config": {
+                                                    "day": {
+                                                        "argb": "#FF000000"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "resource": {
+                                    "res_type": 3,
+                                    "res_image": {
+                                        "image_src": {
+                                            "src_type": 1,
+                                            "placeholder": 6,
+                                            "remote": {
+                                                "url": "https://i1.hdslb.com/bfs/face/ae19cc1f0855ff69bf1a8ed09fe0bb8dc3dfcdf9.jpg",
+                                                "bfs_style": "widget-layer-avatar"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "is_critical_group": true
+                    },
+                    "mid": "81061120"
+                }
+            },
+            "content": {
+                "message": "[打call]前排",
+                "members": [],
+                "emote": {
+                    "[打call]": {
+                        "id": 510,
+                        "package_id": 1,
+                        "state": 0,
+                        "type": 1,
+                        "attr": 0,
+                        "text": "[打call]",
+                        "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                        "meta": {
+                            "size": 1,
+                            "suggest": [
+                                ""
+                            ]
+                        },
+                        "mtime": 1668688325,
+                        "jump_title": "打call"
+                    }
+                },
+                "jump_url": {},
+                "max_line": 6
+            },
+            "replies": [],
+            "assist": 0,
+            "up_action": {
+                "like": true,
+                "reply": false
+            },
+            "invisible": false,
+            "card_label": [
+                {
+                    "rpid": 248023026944,
+                    "text_content": "UP主觉得很赞",
+                    "text_color_day": "#757575",
+                    "text_color_night": "#939393",
+                    "label_color_day": "#F4F4F4",
+                    "label_color_night": "#1E1E1E",
+                    "image": "",
+                    "type": 0,
+                    "background": "",
+                    "background_width": 0,
+                    "background_height": 0,
+                    "jump_url": "",
+                    "effect": 0,
+                    "effect_start_time": 0
+                }
+            ],
+            "reply_control": {
+                "up_like": true,
+                "max_line": 6,
+                "time_desc": "9天前发布"
+            },
+            "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+            },
+            "dynamic_id_str": "0",
+            "note_cvid_str": "0",
+        }
+    ],
+    "reply_control": {
+        "up_like": true,
+        "max_line": 6,
+        "time_desc": "9天前发布"
+    },
+    "folder": {
+        "has_folded": false,
+        "is_folded": false,
+        "rule": ""
+    },
+    "dynamic_id_str": "0",
+    "note_cvid_str": "0",
+    "max_line": 6,
+    "time_desc": "9天前发布"
+},
+"folder": {
+    "has_folded": false,
+    "is_folded": false,
+    "rule": ""
+},
+"dynamic_id_str": "0",
+"note_cvid_str": "0",
+"folder": {
+    "has_folded": false,
+    "is_folded": false,
+    "rule": ""
+},
+"dynamic_id_str": "0",
+"note_cvid_str": "0",
+"is_folded": false,
+"rule": ""
+},
+"dynamic_id_str": "0",
+"note_cvid_str": "0",
+"rule": ""
+},
+"dynamic_id_str": "0",
+"note_cvid_str": "0",
+"dynamic_id_str": "0",
+"note_cvid_str": "0",
+"note_cvid_str": "0",
+"track_info": ""
+}
+]
+}
