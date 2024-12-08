@@ -11,7 +11,7 @@ import random
 import time#
 
 headers = {
-    "Cookie": "b4c46ab5%2C1748612005%2C9a2d8%2Ac1CjCw",
+    "Cookie": "xxx",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
     "Referer": "https://space.bilibili.com/3546771443681290/video",
     "Origin": "https://www.bilibili.com"
