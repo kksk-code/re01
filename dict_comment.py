@@ -1,9 +1,9 @@
 #实现从字典（键名标题，键值BV号）中获取BV号，
 # 获取视频的OID，获取评论数据，整理评论数据，打印评论数据。
 #12.5.2024
-
-
-import requests
+#一次爬过就显示{'code': -400, 'message': '请求错误', 'ttl': 1}
+#应该是接口不稳定，因为用这个api写的其他代码也显示爬不出信息
+import requests，
 import json
 from datetime import datetime
 from typing import List, Dict, Union, Optional
