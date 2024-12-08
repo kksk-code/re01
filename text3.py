@@ -20,7 +20,7 @@ class GetInfo:
         self.base_url = f"https://api.bilibili.com/x/space/arc/search"
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-            "Cookie": "b4c46ab5%2C1748612005%2C9a2d8%2Ac1CjCw",  # 替换为你的 SESSDATA
+            "Cookie": "xxx",  # 替换为你的 SESSDATA
         }
 
     def get_videos_by_page(self, page):
