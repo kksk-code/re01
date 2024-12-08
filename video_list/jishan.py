@@ -12,7 +12,7 @@ import requests
 
 uid = 3546771443681290
 
-# API 接口 URL
+
 url = f'https://api.bilibili.com/x/space/arc/search'
 
 # 请求参数
@@ -22,17 +22,17 @@ params = {
     'pn': 1,     
     'order': 'pubdate',  
     'platform': 'web', 
-    'web_location': '1550101',  # Web 端的用户位置（后来改成web鉴权方式，要用到web签名）
+    'web_location': '1550101', 
 }
 
-# 请求头（模拟浏览器请求）
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
 }
 
 # 请求cookie (需要登录B站获取的SESSDATA值)
 cookies = {
-    'SESSDATA': '7d9aa5c8%2C1748865845%2Cf39ad%2Ac1CjApkQ'  # 请替换为你自己的 SESSDATA
+    'SESSDATA': 'xxx'  # 请替换为你自己的 SESSDATA
 }
 
 # 发送请求
