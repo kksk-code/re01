@@ -1,5 +1,5 @@
 #爬取视频评论主程序，已在git上发布的版本，实现了时间戳排序。
-#可以同时爬多个视频，但是要用英文逗号分隔
+#手动输入bv号，出评论结果，可以同时爬多个视频，但是要用英文逗号分隔
 #12.3日调试成功
 
 
@@ -9,7 +9,7 @@ from datetime import datetime
 class BilibiliCommentScraper:
     def __init__(self, cookies=None, headers=None):
         self.cookies = cookies or {
-            'SESSDATA': '7d9aa5c8%2C1748865845%2Cf39ad%2Ac1CjApkQ'
+            'SESSDATA': 'xxx'
         }
         self.headers = headers or {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0',
