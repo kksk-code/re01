@@ -1,3 +1,5 @@
+#根据已有的视频列表的json文件查询每个视频的评论（原思路）
+#现思路是把把数据按字典储存，键名标题，值为bv号，遍历这个字典爬取每个视频对应的评论
 import requests
 import json
 import time
